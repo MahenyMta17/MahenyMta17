@@ -70,8 +70,8 @@ Soy un programador venezolano de 24 años con un gran entusiasmo por el aprendiz
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api?username=MahenyMta17&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenyMta17&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MahenyMta17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahenyMta17&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
