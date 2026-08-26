@@ -67,16 +67,15 @@ Soy un programador venezolano de 24 años con un gran entusiasmo por el aprendiz
 ---
 
 <!-- ESTADÍSTICAS -->
-### 📊 Estadísticas y Actividad
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahenyMta17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahenyMta17&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad" />
+  <img src="https://komarev.com/ghpvc/?username=MahenyMta17&label=Visitas+al+perfil&color=36BCF7&style=for-the-badge" alt="Visitas al perfil" />
 </p>
----
 
 <!-- ANIMACIÓN DE LA SERPIENTE -->
 <p align="center">
